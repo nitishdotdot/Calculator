@@ -1,0 +1,40 @@
+ .mybtn{
+      width: 100px;
+      height: 100px;
+        border-color: black;
+      border-radius: 10px;
+      border-width: thick;
+      font-size: 50px;
+       box-shadow: 10px 25px  rgba(236, 50, 24, 0.4);
+      
+    }
+    .mybtn:hover{
+      background-color: aqua;
+      transform:scale(1.25);
+      font-size: 50px;
+    }
+    .mybox{
+      height:90px;
+      width:312px; 
+      font-size: large;
+      font-size: 50px;
+      border-width: thick;
+      border-radius: 15px;
+      text-align: right;
+    }
+    .mybox:hover{
+      transform: scale(1.25);
+    }
+    
+    .active{
+       background-color: aqua;
+      transform:scale(1.25);
+      font-size: 50px;
+    }
+    .calccontainer{
+   background-color: #aea141;  /* pure black */
+  color: white;            /* white text */
+  border: 2px solid white;
+  border-radius: 15px;
+  padding: 20px;
+    }
