@@ -64,8 +64,7 @@ Every key press is captured using **event listeners**, and visually **zooms the 
 ---
 ## 📸 Demo
 
-[Calculator Screenshot]
-Calculator/calc.png
+![Calculator Screenshot](./screenshot.png)
 
 ## 🙌 Credits
 
